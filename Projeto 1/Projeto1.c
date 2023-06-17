@@ -163,6 +163,7 @@ void restaurandoDados(int vacina[], char nome[][50], char email[][25], char sexo
 }
 
 int main()
+
 {
     int vacina[999], backupVacina[999], i;
     char opcao, nome[999][50], backupNome[999][50], email[999][25], backupEmail[999][50], sexo[999][13], backupSexo[999][13], enderenco[999][30], backupEndereco[999][30];
